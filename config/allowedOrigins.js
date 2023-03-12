@@ -1,3 +1,6 @@
-const allowedOrigins = ["https://danisoft.onrender.com/"];
+const allowedOrigins = [
+  "http://localhost:3000",
+  "https://danisoft.onrender.com/",
+];
 
 module.exports = allowedOrigins;
